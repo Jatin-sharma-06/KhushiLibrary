@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 150" role="img" aria-labelledby="title">
+  <title id="title">Library</title>
+  <path d="M61 37a29 29 0 0 1 58 0" fill="none" stroke="#f7bd00" stroke-width="4" stroke-linecap="round"/>
+  <path d="M24 48c23 1 45 7 66 19 21-12 43-18 66-19l-4 66c-22 1-43 5-62 14-19-9-40-13-62-14z" fill="#fff" stroke="#d71920" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M90 67C72 54 51 49 28 49m62 18c18-13 39-18 62-18M90 79C71 66 50 61 27 61m63 18c19-13 40-18 63-18M90 92C70 79 49 74 26 73m64 19c20-13 41-18 64-19" fill="none" stroke="#d71920" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M25 55c-2 15 0 31 5 47m125-47c2 15 0 31-5 47" fill="none" stroke="#d71920" stroke-width="2" stroke-linecap="round"/>
+  <text x="90" y="143" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" letter-spacing="5" fill="#343434">LIBRARY</text>
+</svg>
